@@ -1,5 +1,5 @@
 # php-login-register
-A simple but highly efficient and robust  login/register php pages.
+Responsive ,efficent and robust  login/register php pages.
 
 Screenshots:
 Login Page:
@@ -11,5 +11,6 @@ Validating the form:
 Successfull Registeration:
 ![image](https://cloud.githubusercontent.com/assets/20264110/16687202/b94ace08-4534-11e6-9ad9-fa9a19db3c83.png)
 Logging in:
-![image](https://cloud.githubusercontent.com/assets/20264110/16687229/dd850040-4534-11e6-854c-955587dbc87a.png)
+![image](https://cloud.githubusercontent.com/assets/20264110/16687584/23d44f72-4537-11e6-963a-b02b240c2e21.png)
+
 
