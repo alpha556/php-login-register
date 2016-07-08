@@ -1,0 +1,32 @@
+body{
+    background-color:lightblue;
+    animation-name: color-change;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes color-change{
+    from{
+        background-color:lightblue;
+    }
+    to{
+        background-color:  #ccffef;
+    }
+}
+.container{
+    max-width: 600px;
+    margin-top:200px;
+    padding:20px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+form{
+    margin-top: 20px;
+}
+label{
+    white-space: nowrap;
+}
+#error_message{
+    text-align: center;
+}
+
